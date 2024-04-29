@@ -1,4 +1,0 @@
-It is the only supercomputer developed by HP and Tata. It is the fourth fastest computer in the world. . It is also the only supercomputer to make the list of the top ten supercomputers in Asia. The word eka means one in Sanskrit.
-In addition to Tata's Computing Research Lab in Pune, Tata Consultancy Services, Tata Technologies and Tata Strategic Management Group are also partners in the project. It was built in 6 weeks at a cost of `120 crore.
-Its estimated speed is 117.9 teraflops per second. It uses technologies developed by Tata scientists such as Dens Datacenter Layout, Naval Network Routing and Parallel Processing Library.
-Used solely for climate determination, oil and natural gas exploration, nanotechnology, drug discovery, data mining and animation.
