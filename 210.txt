@@ -1,2 +1,0 @@
-Density is the name given to the unit volume of a substance. Density can more accurately be called mass density. The Greek alphabet is usually spelled with. For computation, density can be calculated as the number obtained by dividing the mass by the volume.
-Where ρ is the density and m is the mass and V is the volume. Sometimes the density can be calculated as the weight per unit volume. But scientifically it is called specific weight.
