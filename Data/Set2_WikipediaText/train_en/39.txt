@@ -1,0 +1,5 @@
+The mouse is a handheld pointing device and input device for computers. It is a small device designed to fit in the palm of your hand and has one or more buttons. It is placed on a flat surface. At the bottom of the mouse is a device that determines its movement relative to the flat surface. The movement of the mouse is interpreted as the movement of a point on the display.
+It got its name from the fact that the wire from the early mice to the computer resembled the tail of a mouse. Also, the movement of the pointer may be similar to that of a mouse.
+The computer mouse was invented in 1967 by Douglas Engelbert. 
+The wireless mouse is quite different from ordinary mice in that the wire connecting the computer and the mouse is not visible. Alternatively there is a wireless system, which will have a limit. The mouse can work by sitting within this range.
+This article about a computer hardware is a stub. Help develop this.
