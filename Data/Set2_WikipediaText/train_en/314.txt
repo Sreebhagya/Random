@@ -1,0 +1,1 @@
+The executable & linkable format is a file type for binary, executable, object code, shared libraries, and core dump. It quickly became popular among various Unix vendors. In 1999, Unix approved the 86open project as an approved binary file type for Unix-like operating systems.

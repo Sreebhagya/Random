@@ -1,0 +1,26 @@
+Set is one of the basic concepts in mathematics. Mathematical theory is a highly advanced and under research subject. The theory of computation was developed by George Cantor.
+The set was defined by George Cantor. In his opinion it is "a set of members that can be clearly defined." Its members can be zodiac signs, objects or ideas.
+The set is denoted by uppercase letters of the English alphabet. The group members are defined in brackets. The alignment of members is mainly indicated in 3 ways.
+The symbol ∈ or is used to indicate whether or not you belong to a given zodiac sign.
+For example, consider the arithmetic array N N \ displaystyle \ mathbb {N}.
+Therefore N {\ displaystyle \ mathbb N}} = {1,2,3,4, ..........} here 100∈ N {\ displaystyle \ mathbb {N}} and 0 ∉ N \ displaystyle \ mathbb is also N.
+The number of members in a set is called the set number of that set | With the symbol.
+In the example above, the set number N {\ displaystyle \ mathbb {N മാണ് is infinite. Considering the set A = {1,2,3,4 is | A | = 4.
+A subset is a group of members who are fully or partially members of a set. സൂചിപ്പ {\ displaystyle \ subseteq
+   Considering the set N {\ displaystyle \ mathbb N}, the set A = {2,4,6,8 ..........} is a subset of N {\ displaystyle \ mathbb {N.
+That is, A {{\ displaystyle \ subseteq} N {\ displaystyle \ mathbb {N}} and vice versa N {\ displaystyle \ mathbb N}. N {\ displaystyle \ mathbb {N}} ⊇ display \ displaystyle \ supseteq} A
+All members of two or more groups are grouped together. All members of the group are grouped together into one group.
+The meeting of two groups A and B is referred to as A ∪ B. Its members can be either A or B members.
+The terms can be expressed as A ∪ B = {x / x∈ A or x∈B} Examples:
+A set of common members of two or more groups is obtained by the combination of two groups. The combination of two groups A and B is denoted as A ∩ B.
+The terms can be expressed as: A .B = {x / x∈ A and x∈B} Examples:
+Observes the law of circumstance. A ∩ = ∩ C
+The set of members that are in the whole set and not in the given set is called the complement set.
+Conditional terms can be expressed as: A '= {x / x∉A
+A regular pair is a set of numbers. Denotes a sequence of pairs where a represents the first and b the second numbers. = Denotes a = a 'and b = b'.
+This is the main difference between the pair and the set. That is, the pair is used to align the numbers in a certain order. But such an order is not required in the set. And ഗണ a and a ഗണ in the set are meaningless. But refers to a meaningful pair.
+The Cartesian multiplier is used to combine members of one group with members of another to form a new set. The two groups A and B are recorded as regular pairs. AXB indicates. Can be defined in terms of terms.
+AXB = {/ x∈ A, y∈ B
+Group A has m members and group B has n members and group AXB has mXn members.
+Examples:
+This Mathematical article is a stub. Please help improve this article or section by expanding it.
