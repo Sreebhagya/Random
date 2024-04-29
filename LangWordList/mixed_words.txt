@@ -1,0 +1,8 @@
+Girl-Sacchi	N_NN
+Boy-Mucchi	N_NN
+papa-beti\	N_NNP
+H3	RD_RDF
+dedh-litre	JJ
+maha-backlogger	N_NNP
+Indiawaale	N_NNP
+sirji	N_NN

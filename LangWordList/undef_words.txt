@@ -1,0 +1,2 @@
+panreengla	N_NNP
+M	RD_RDF
