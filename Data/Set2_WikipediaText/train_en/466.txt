@@ -1,0 +1,3 @@
+URI or Uniform Resource Identifier can be simply defined as the name used to identify an object. The word is used in the context of the web. URIs are used to identify and link objects or documents on the Web or the World Wide Web.
+Both URLs and URLs fall into the general category of URIs. Simply put, a URL is just a name, and the URL is an address. So a URN is just the name of an object on the web and the URL is its full address. You can see the name and location in the address, as well as the URL that tells you where a document is located on the web.
+This article about the World Wide Web is a stub. Please help improve this article or section by expanding it.

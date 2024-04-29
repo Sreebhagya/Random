@@ -1,0 +1,6 @@
+Audacity is a software used to write and edit voice digitally. Windows and Mac OS X, Linux, BSD There are versions for different operating systems, including Audacity is a free software released under the GNU General Public License 2nd edition.
+The creator of Odacity is Dominic Masoni, who developed the software while he was a graduate student at Carnegie Mellon University. Although currently working at Google, Masonry, with the support of developers from around the world, is leading the development and maintenance of Audacity.
+The latest stable version of Odacity is 1.2.6, released on November 15, 2006. On May 3, 2009, Audacity ranked sixth on the list of most downloaded software from Sourceforge.net. Audacity won the 2007 Sourceforge.net Community Choice Award for Outstanding Multimedia Project.
+Some of the features of Odacity are as follows:
+This article or section needs sources or references that appear in credible, third-party publications. Help develop this.
+

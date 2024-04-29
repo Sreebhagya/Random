@@ -1,0 +1,5 @@
+Modulation is the process of incorporating low-frequency waves over high-frequency electromagnetic carrier waves.
+Analog signals generally have three modulations: -
+Amplitude modulation is a method of modulating the amplitude of a carrier wave according to the amplitude of the waves containing the information.
+The modulation index is the ratio of the maximum amplitude of the wave containing the information to the maximum amplitude of the carrier wave.
+The practical level of the modulation index should be less than one. If the modulation index is greater than one, the signal containing the information cannot be effectively separated from the amplified wave.
