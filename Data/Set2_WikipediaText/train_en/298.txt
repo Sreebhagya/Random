@@ -1,0 +1,6 @@
+The largest of the common elements of two numbers is their ideal common factor, or U.S. Is called. That is, the highest common number above zero, which can be divided by the remainder of the two numbers: e.g. Is called. English: greatest common divisor, greatest common factor or highest common factor
+If a and b are not zero, then the ideal common factor of a and b can be calculated using their simplest common multiple.
+Euclid's algorithm is an algorithm used to see the sum of two numbers.
+The largest common element is 6, which is the sum of the numbers 12 and 18.
+Simple common multiple.
+This article about a number is a stub. Help develop this.

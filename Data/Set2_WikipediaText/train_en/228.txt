@@ -1,0 +1,2 @@
+The elephant is a calf in chess. At the start of the game, each player will have two elephants. One of them starts between the king's horse and the king and the other between the minister's horse and the minister. According to the chess notation, their starting position is white elephants in cells c1 and f1 and black elephants in cells c8 and f8.
+ 

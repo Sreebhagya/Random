@@ -1,0 +1,3 @@
+ARM Architecture is a 32-bit, 64-bit RISC processor architecture developed by Arm Holdings. It is widely used in embedded designs due to its low power consumption. Architecture is used. From consumer electronics to portable devices to computer peripherals, ARM CPUs are increasingly being used.
+ARM Sysine was started as a development project to build Ecom Computers' compact RISC CPU. 
+ST Micro STR91xF, includes Ethernet 
