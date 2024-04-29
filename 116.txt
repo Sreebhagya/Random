@@ -1,0 +1,8 @@
+In mathematics, a matrix is ​​a square arrangement of numbers. Numbers are arranged in rows and columns. The number of columns and rows does not have to be the same.
+The code of a matrix is ​​determined by its column and row. Crode is the number of rows and columns in a matrix.
+The column matrix is ​​a single column matrix
+A row matrix is ​​a one-line matrix
+A square matrix is ​​a matrix whose column number and row number are equal. Here m = n.
+The diagonal matrix is ​​a matrix of zero for all words except the diagonal. It must also be a square matrix.
+This is a matrix in which all the diagonals in a diagonal matrix are 1 and all the others are zero. This is also called the unit matrix.
+Fraction is the new matrix obtained by converting the rows of a matrix into columns and the columns into rows.
